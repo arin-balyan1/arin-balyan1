@@ -25,6 +25,22 @@ Email Me 👉 ✉️ **arinbalyan2003@gmail.com** For Collaboration/Project or A
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Open Source Contributions
+
+### 🛠️ e6data Python Connector
+
+Contributed to the **e6data Python Connector**, an open-source Python connector for the e6data platform.
+
+* 🐞 Reported and reproduced a bug in the `get_columns()` dialect implementation.
+* 💡 Developed the original fix that became the foundation of the final release.
+* ✅ Acknowledged by the maintainers in the official **v2.3.14 Release Notes**.
+* 🤝 Recognized as an official contributor to the project.
+
+🔗 **Release Notes:**
+https://github.com/e6data/e6data-python-connector/releases
+
+> "Thanks to @arin-balyan1 for reporting the issue (#82) and providing the original fix (#81) that this release is based on."
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arin-balyan1&icon=0&color=0)](https://visitcount.itsvg.in)
