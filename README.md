@@ -37,7 +37,7 @@ Contributed to the **e6data Python Connector**, an open-source Python connector 
 * 🤝 Recognized as an official contributor to the project.
 
 🔗 **Release Notes:**
-https://github.com/e6data/e6data-python-connector/releases
+https://github.com/e6data/e6data-python-connector/releases/tag/2.3.14
 
 > "Thanks to @arin-balyan1 for reporting the issue (#82) and providing the original fix (#81) that this release is based on."
 
